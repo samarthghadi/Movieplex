@@ -1,0 +1,7 @@
+D:\SEM 2\Dot Net\MoviePlexTheater\bin\Debug\MoviePlexTheater.exe.config
+D:\SEM 2\Dot Net\MoviePlexTheater\bin\Debug\MoviePlexTheater.exe
+D:\SEM 2\Dot Net\MoviePlexTheater\bin\Debug\MoviePlexTheater.pdb
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheater.csproj.AssemblyReference.cache
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheater.csproj.CoreCompileInputs.cache
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheater.exe
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheater.pdb

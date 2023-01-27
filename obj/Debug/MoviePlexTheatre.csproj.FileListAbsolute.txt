@@ -1,0 +1,14 @@
+D:\SEM 2\Dot Net\MoviePlexTheater\bin\Debug\MoviePlexTheater.exe.config
+D:\SEM 2\Dot Net\MoviePlexTheater\bin\Debug\MoviePlexTheater.exe
+D:\SEM 2\Dot Net\MoviePlexTheater\bin\Debug\MoviePlexTheater.pdb
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheatre.csproj.AssemblyReference.cache
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheatre.csproj.CoreCompileInputs.cache
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheater.exe
+D:\SEM 2\Dot Net\MoviePlexTheater\obj\Debug\MoviePlexTheater.pdb
+E:\2nd SEM\Dot Net\Final-Project_AnkitTayal_SamarthGhadi\MoviePlexTheater\bin\Debug\MoviePlexTheater.exe.config
+E:\2nd SEM\Dot Net\Final-Project_AnkitTayal_SamarthGhadi\MoviePlexTheater\bin\Debug\MoviePlexTheater.exe
+E:\2nd SEM\Dot Net\Final-Project_AnkitTayal_SamarthGhadi\MoviePlexTheater\bin\Debug\MoviePlexTheater.pdb
+E:\2nd SEM\Dot Net\Final-Project_AnkitTayal_SamarthGhadi\MoviePlexTheater\obj\Debug\MoviePlexTheatre.csproj.AssemblyReference.cache
+E:\2nd SEM\Dot Net\Final-Project_AnkitTayal_SamarthGhadi\MoviePlexTheater\obj\Debug\MoviePlexTheatre.csproj.CoreCompileInputs.cache
+E:\2nd SEM\Dot Net\Final-Project_AnkitTayal_SamarthGhadi\MoviePlexTheater\obj\Debug\MoviePlexTheater.exe
+E:\2nd SEM\Dot Net\Final-Project_AnkitTayal_SamarthGhadi\MoviePlexTheater\obj\Debug\MoviePlexTheater.pdb
